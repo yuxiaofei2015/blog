@@ -7,7 +7,7 @@ title: 于晓飞的博客
 subtitle: Good good study,day day up!
 description: 博客 技术 编程
 author: 于晓飞
-language: zh-CN
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: hexo-theme-next
+theme: landscape
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
